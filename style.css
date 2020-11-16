@@ -1,0 +1,78 @@
+.modal-backdrop {
+    z-index: -1;
+  }
+
+ i:hover {
+     color: rgb(89, 63, 148);
+     cursor: pointer;
+ }
+
+#go-to {
+
+    font-size: 30px; color: black; margin-left: 150%; margin-top: 10%;
+}
+
+.navbar-brand { font-size: 27px;
+
+}
+
+
+img {
+    border-radius: 1%;
+}
+/* footer */ 
+
+#footer {
+
+    background-color: rgb(182, 179, 179); color: white; font-weight: bold;
+}
+
+#leones {
+     color: black; font-weight: bold; border-collapse: separate; border:solid;
+     background: rgb(131,58,180);
+     background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+#day {
+    background-color: rgb(182, 179, 179); color: white; font-weight: bold; text-align: center;
+}
+
+
+/* video */
+
+#video {
+width: 600px; height: 400px;}
+
+
+/* Photo feed */ 
+
+
+#photo-cont {
+    background-color: rgb(173, 169, 169);
+}
+
+.card-header {
+    height: 45px;
+    width: 100%;
+    background-color:rgba(243, 243, 243, 0.87) ;
+}
+
+.ch-p {
+
+    font-weight: bold; display: inline; font-size: 24px; font-family: 'Dancing Script', cursive;
+}
+
+
+.card-title span i {
+
+    padding-left: 10px;
+}
+
+.card-title span {
+
+    margin-left: 68%;
+}
+
+.card-text {
+    margin-top: 15px; font-family: 'Zilla Slab', serif; font-weight: 800; font-size: 18px; text-align: justify;
+}
